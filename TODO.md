@@ -37,6 +37,7 @@ Debt Manager no solo es una herramienta útil para el control financiero persona
 
 - [ ] Crear conexion con la DB
 - [ ] Crear APIs
+- [ ] crear sqlalchemy
 
 
 ## DataBase
