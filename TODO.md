@@ -100,3 +100,6 @@ Debt Manager no solo es una herramienta útil para el control financiero persona
 - [ ] FastAPI
 - [ ] Conexion con la DB
 - [ ] estudiar SQLAlchemy
+- [ ] En caso de cambiar al FrontEnd:
+  - [ ] Instalar Node.js
+  - [ ] Link del video de YouTube para aprender React: https://www.youtube.com/watch?v=yIr_1CasXkM
